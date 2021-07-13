@@ -4,4 +4,4 @@
     content: Faker::Lorem.sentence,
     premium: [true, false].sample,
   )
-end
+ends
