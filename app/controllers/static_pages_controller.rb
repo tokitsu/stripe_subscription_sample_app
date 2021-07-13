@@ -1,5 +1,4 @@
-class StaticPagesController < ActionController::Base
+class StaticPagesController < ApplicationController
   def pricing
-
   end
 end
